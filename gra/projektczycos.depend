@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1509219622 source:c:\users\kamil\desktop\programowanie\projektczycos\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<winalleg.h>
+
+1510075821 source:d:\users\student\desktop\projektczycos\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<winalleg.h>
+
+1510061926 source:i:\projektczycos\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<winalleg.h>
+
+1510075822 source:c:\users\kamil\desktop\projektczycos\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<winalleg.h>
+
+1510860752 source:c:\users\kamil\desktop\gra_pacman\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<winalleg.h>
+
+1510860752 source:c:\users\kamil\desktop\gra\main.cpp
+	<allegro.h>
+	<cstdlib>
+	<winalleg.h>
+
