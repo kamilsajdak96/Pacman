@@ -12,11 +12,11 @@ strza³ki do poruszania siê pacmanem, klawisz esc do wejscia do menu, enter do wy
 
 ## Wygl¹d
 
-![Screenshot](1.png)
+![Screenshot](../Pacman-master/1.png)
 
-![Screenshot](2.png)
+![Screenshot](../2.png)
 
-![Screenshot](3.png)
+![Screenshot](../3.png)
 
 ## U¿yta biblioteka
 
